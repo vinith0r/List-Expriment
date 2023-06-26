@@ -124,7 +124,7 @@ def data():
         ds = pd.Series(l)
         print(ds)
     elif n==2:
-        ds ==pd.Series(l2)
+        ds = pd.Series(l2)
     else:
         print("put correct option")
 #--------------------not completed-------------------------------------------------------addtion of list using sum()function
